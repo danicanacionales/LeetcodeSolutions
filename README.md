@@ -2,16 +2,22 @@
 # leetcode
 Accepted Leetcode solutions in Java
 
+[Array](https://github.com/danicanacionales/leetcode/tree/master/problems/src/array)
+	
+
+ - Squares of a Sorted Array (Easy)
+
 [Binary Search](https://github.com/danicanacionales/leetcode/tree/master/problems/src/binary_search)
 	
 
- - Kth Smallest Element in a BST  (Easy)
+ - Kth Smallest Element in a BST (Easy)
 
 
 [Hash Table](https://github.com/danicanacionales/leetcode/tree/master/problems/src/hashtable)
 	
 
  - Jewels and Stones (Easy)
+ - N-Repeated Element in Size 2N Array (Easy)
 
 [String](https://github.com/danicanacionales/leetcode/tree/master/problems/src/string)
 	
@@ -19,6 +25,11 @@ Accepted Leetcode solutions in Java
  - To Lower Case (Easy) 	
  - Unique Morse Code Words (Easy) 	
  - Unique Email Addresses (Easy)
+ 
+[SQL](https://github.com/danicanacionales/leetcode/tree/master/problems/src/sql)
+	
+
+ - Big Countries (Easy)
 
 [Tree](https://github.com/danicanacionales/leetcode/tree/master/problems/src/tree)
 	
