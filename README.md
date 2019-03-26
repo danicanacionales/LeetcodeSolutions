@@ -6,6 +6,7 @@ Accepted Leetcode solutions in Java
 	
 
  - Squares of a Sorted Array (Easy)
+ - Sort Array By Parity (Easy)
 
 [Binary Search](https://github.com/danicanacionales/leetcode/tree/master/problems/src/binary_search)
 	
