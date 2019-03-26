@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SortArrayByParity {
+    /*
+    Created by danicanacionales on 25/03/2019
+
+    905. Sort Array by Parity
+    */
+
     public static void main(String[] args) {
         int [] A = { 3, 1, 2, 4 };
         A = new SortArrayByParity().sortArrayByParity(A);
