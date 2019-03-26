@@ -12,6 +12,12 @@ Accepted Leetcode solutions in Java
 	
 
  - Kth Smallest Element in a BST (Easy)
+ 
+ 
+[Bit Manipulation](https://github.com/danicanacionales/leetcode/tree/master/problems/src/bit_manipulation)
+	
+
+ - Hamming Distance (Easy)
 
 
 [Hash Table](https://github.com/danicanacionales/leetcode/tree/master/problems/src/hashtable)
@@ -26,6 +32,7 @@ Accepted Leetcode solutions in Java
  - To Lower Case (Easy) 	
  - Unique Morse Code Words (Easy) 	
  - Unique Email Addresses (Easy)
+ - Return Robot to Origin (Easy)
  
 [SQL](https://github.com/danicanacionales/leetcode/tree/master/problems/src/sql)
 	
