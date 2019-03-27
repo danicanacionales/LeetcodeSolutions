@@ -7,6 +7,7 @@ Accepted Leetcode solutions in Java
 
  - Squares of a Sorted Array (Easy)
  - Sort Array By Parity (Easy)
+ - Array Partition I (Easy)
 
 [Binary Search](https://github.com/danicanacionales/leetcode/tree/master/problems/src/binary_search)
 	
@@ -25,6 +26,11 @@ Accepted Leetcode solutions in Java
 
  - Jewels and Stones (Easy)
  - N-Repeated Element in Size 2N Array (Easy)
+ 
+[Math](https://github.com/danicanacionales/leetcode/tree/master/problems/src/math)
+	
+
+ - Self Dividing Numbers (Easy)
 
 [String](https://github.com/danicanacionales/leetcode/tree/master/problems/src/string)
 	
